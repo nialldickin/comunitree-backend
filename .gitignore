@@ -1,0 +1,13 @@
+node_modules
+lib
+build
+yarn.lock
+yarn-error.log
+package-lock.json
+src/css/main.css
+.DS_Store
+.vscode
+.eslintcache
+uploads
+the_plan
+setapikey.sh
